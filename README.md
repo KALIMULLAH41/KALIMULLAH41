@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a CSE Graduate at [ASCT] Bhopal-M.P
-- 👀 I’m a  Full Stack Developer & Problem Solver
+- 👀 I’m a  Full Stack Development with Java & Python | Web Development | SQL Expertise & Problem Solver
 - 🌱 Ask me about Problem Solving
 -  📫 How to reach me: kalimullah41557@gmail.com
 -  ⚡ Fun fact:"Hellow,World!" originated in 1967.
