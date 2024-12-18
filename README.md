@@ -1,4 +1,4 @@
-Hello! I’m a recent Computer Science Engineering graduate from All Saints' College of Technology (ASCT), Bhopal, M.P.
+Hello! I’m a recent Computer Science Engineering graduate from Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal, M.P.
 
 🌟 Aspiring Full Stack Developer proficient in Java and Python, with experience in Web Development and SQL. I’m eager to learn and tackle challenges in the tech industry.
 
